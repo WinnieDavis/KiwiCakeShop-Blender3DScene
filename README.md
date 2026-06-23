@@ -1,7 +1,9 @@
 # Kiwi Cake Shop, a Blender 3D Scene
 
-A two-tier fantasy cake set inside a miniature room, modelled and rendered in **Blender** for **Assignment 3, University of Otago**. The project started as a default donut tutorial and grew into a grassy, starlit, waterfall, mushroom, garden cake.
+A two-tier fantasy cake set inside a miniature room, modelled and rendered in **Blender** for a  University of Otago visual computing assignment. The project started as a default donut tutorial and grew into a grassy, starlit, waterfall, mushroom, garden cake.
+
 ![Screenshot Of Cake Being Made](images/screenshot_of_cake.png)
+
 ![Kiwi test render](images/kiwi-test.png)
 
 *An early kiwi render, made while testing Blender's image-texture and sculpting tools.*
