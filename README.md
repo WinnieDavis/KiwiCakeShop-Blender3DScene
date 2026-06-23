@@ -2,7 +2,7 @@
 
 A two-tier fantasy cake set inside a miniature room, modelled and rendered in **Blender** for **Assignment 3, University of Otago**. The project started as a default donut tutorial and grew into a grassy, starlit, waterfall, mushroom, garden cake.
 
-![Kiwi test render](kiwi-test.png)
+![Kiwi test render](images/kiwi-test.png)
 
 *An early kiwi render, made while testing Blender's image-texture and sculpting tools.*
 
@@ -28,31 +28,31 @@ The cake started as the top and bottom tiers. Faces were selected and extruded d
 
 The icing was the trickiest part. After working through several tutorials to find a workable array-on-a-curve method, I duplicated a single icing piece, applied an array modifier, and fitted that array to a curve. The first "loopy" icing came out far too uniform, so I added a subsurface modifier for dimension and used the sculpt tool to push, pull, and resize sections until it looked hand-piped.
 
-![Loopy icing with gold sprinkles](loopy-icing.png)
+![Loopy icing with gold sprinkles](images/loopy-icing.png)
 
 *Loopy icing with rose-gold sprinkles.*
 
 Hard chocolate "crackle" vines were added with the skin modifier, and gummy roses with food-safe leaves were placed using the snapping tool.
 
-![Chocolate crackle vines and gummy roses](chocolate-vines.png)
+![Chocolate crackle vines and gummy roses](images/chocolate-vines.png)
 
 *Chocolate crackle vines and gummy roses.*
 
 ### Finishing Touches
 Mushrooms and stars came next. The scale tool was handy for bending the mushroom caps, and the stars reused the gummy-flower shape. Glowing stars (modelled as mini LEDs inside thin chocolate shells) were made by adjusting emissivity, and the waterfall froth used a shader-texture combination shaped with a subsurface modifier and sculpting.
 
-![Mushroom](mushroom.png)
+![Mushroom](images/mushroom.png)
 
 *A mushroom, floating above the water.*
 
-![The waterfall and froth cloud](waterfall.png)
+![The waterfall and froth cloud](images/waterfall.png)
 
 *The waterfall and its froth cloud, with grass particles in front.*
 
 ### The Scene
 The whole cake sits in a miniature room, which gave full control over lighting and camera. The rug uses a subsurface modifier plus the cloth sculpt technique for carpet-like movement, the chairs were modelled from a reference image through several iterations before landing on a smooth leather-and-metal design, and floating shelves with small handmade trinkets fill out the space. One plant pot started glowing unexpectedly during texturing, so it became a lamp.
 
-![The scene](scene.png)
+![The scene](images/scene.png)
 
 *The full scene: room, rug, chairs, shelves, and window.*
 
